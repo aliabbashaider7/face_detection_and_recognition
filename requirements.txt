@@ -1,0 +1,9 @@
+cmake
+dlib
+opencv-python
+torch>=1.7.1
+imutils
+thop
+scikit-image
+tensorflow==1.15.0
+keras=2.2.5
