@@ -10,6 +10,9 @@ pip3 install -r requirements.txt
 
 Note: In case dlib fails to build, You can install it from the source from official dlib github such as on jetson toolkits.
 
+# Pre-trained weights:
+You can download gender classification and face landmarks detection pretrained weights from [here](https://drive.google.com/drive/folders/1IsSM5ajgPDztt-d7E2uiuhbHuaVDAV5x?usp=sharing). Make sure to put them under vitals directory before moving on.
+
 # Face Recognition Training:
 Dataset sample has been given in faces_database directory. Make sure to keep the folders that way and the names inside of the folder like given in sample dataset. After preparing dataset accordingly, run training.py script which outputs database.npy file inside of vitals directory that will be used in inference section to recognize trained faces.
 
