@@ -1,4 +1,4 @@
-# Face Detection, Recognition and Gender Classification:
+# Face Detection and Recognition:
 An ultra fast and accurate python implementation to detect, recognize and classify gender of the face of a person.
 
 # Pre-requisits:
